@@ -1,3 +1,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-liwangsheng/koodo-reader:latest
+liwangsheng/koodo-reader
+firezmc/dosgame-web-docker
+library/mysql
+
