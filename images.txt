@@ -2,6 +2,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 liwangsheng/koodo-reader
 library/mysql
-firezmc/dosgame-web-docker
+firezmc/dosgame-web-docker:v3.9.6
 
 
