@@ -3,5 +3,5 @@
 liwangsheng/koodo-reader
 library/mysql
 firezmc/dosgame-web-docker:v3.9.6
-
+postgres
 
